@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "string": "cpp"
+    },
+    "files.autoGuessEncoding": true,
+}
