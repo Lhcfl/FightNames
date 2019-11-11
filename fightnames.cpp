@@ -6,7 +6,7 @@
 using namespace std;
 
 //程序版本信息
-class{
+const class{
 	public:
 		string name = "名字竞技场";
 		string version = "Alpha";
